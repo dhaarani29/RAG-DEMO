@@ -1,0 +1,5 @@
+Employees receive 20 days annual leave.
+
+Maternity leave is 180 days.
+
+Paternity leave is 15 days.
