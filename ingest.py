@@ -34,9 +34,6 @@ for file in os.listdir(folder):
         ids=[file]
     )
 
-# Commit the changes to the collection
-collection.persist()
-
 # Print the number of documents stored
 print("Documents stored!")
 print(collection.count())
